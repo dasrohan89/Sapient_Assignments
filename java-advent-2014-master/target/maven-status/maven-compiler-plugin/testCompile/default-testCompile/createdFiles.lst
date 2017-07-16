@@ -1,0 +1,10 @@
+com\rest\assignment\product\ProductTest.class
+com\rest\assignment\product\ProductControllerTest$1.class
+com\rest\assignment\product\ProductDTOAssert.class
+com\rest\assignment\product\ProductBuilder.class
+com\rest\assignment\product\WebTestUtil.class
+com\rest\assignment\product\ProductAssert.class
+com\rest\assignment\product\ProductDTOBuilder.class
+com\rest\assignment\product\ProductControllerTest.class
+com\rest\assignment\product\StringTestUtil.class
+com\rest\assignment\product\ProductServiceImplTest.class

@@ -1,0 +1,14 @@
+com\rest\assignment\product\ProductController.class
+com\rest\assignment\product\ProductRepository.class
+com\rest\assignment\product\ProductService.class
+com\rest\assignment\main\ProductAppConfig.class
+com\rest\assignment\util\PreCondition.class
+com\rest\assignment\product\Product$1.class
+com\rest\assignment\product\ProductServiceImpl.class
+com\rest\assignment\error\ValidationErrorDTO.class
+com\rest\assignment\product\Product.class
+com\rest\assignment\error\FieldErrorDTO.class
+com\rest\assignment\error\RestErrorHandler.class
+com\rest\assignment\product\Product$Builder.class
+com\rest\assignment\product\ProductNotFoundException.class
+com\rest\assignment\product\ProductDTO.class
